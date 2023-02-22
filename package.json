@@ -1,0 +1,23 @@
+{
+    "name": "bahadirkagann",
+    "version": "1.0.0",
+    "description": "Bahadır Kağan-Profil Bot",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@discordjs/rest": "^0.3.0",
+        "axios": "^0.25.0",
+        "discord-api-types": "^0.26.1",
+        "discord.js": "^13.0.0",
+        "nodemon": "^2.0.15"
+    },
+    "engines": {
+        "node": "16.x",
+        "npm": "7.x"
+    }
+}
