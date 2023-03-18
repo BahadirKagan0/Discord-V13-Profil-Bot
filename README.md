@@ -4,7 +4,7 @@
 </div>
 
 # ⚙️ Config
-> Edit config.json and app.js.
+> Edit ayarlar.json and app.js.
 # 📜 Installation
 > Install packages. \
 > $ `npm install`
