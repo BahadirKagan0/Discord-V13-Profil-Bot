@@ -14,7 +14,5 @@
 >
 # 🔒 License
 > MIT
-# 💖 Thanks
-> Thanks to <a href="https://rabelcode.net">RabeL</a>
 # ⭐ Star
 > Don't forget to star if you like it.
